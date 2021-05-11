@@ -3,18 +3,18 @@
         "id": 1,
         "title": "IDEF0 диаграммы",
         "description": "IDEF0 диаграммы курсового проекта",
-        "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/01_A0.png"
+        "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/01_A0.png?raw=true"
     },
     {
         "id": 2,
         "title": "DFD диаграммы",
         "description": "DFD диаграммы курсового проекта",
-        "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/04_A13.png"
+        "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/04_A13.png?raw=true"
     },
     {
         "id": 3,
         "title": "UML диаграммы",
         "description": "UML диаграммы курсового проекта",
-        "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_use_case.png"
+        "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_use_case.png?raw=true"
     }
 ]
