@@ -10,10 +10,11 @@
         "title": "DFD диаграммы",
         "description": "DFD диаграммы курсового проекта",
         "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/04_A13.png"
-     {
+    },
+    {
         "id": 3,
         "title": "UML диаграммы",
         "description": "UML диаграммы курсового проекта",
-        "preview": "https://github.com/viveber/VeberVA/blob/main/иллюстрации%20к%20курсовому%20проекту/uml%20use-case.png?raw=true"
+        "preview": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_use_case.png"
     }
 ]
