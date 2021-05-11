@@ -1,6 +1,50 @@
 {
-    "title": "UML Class",
+    "title": "DFD диаграммы",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "DFD диаграммы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А13: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/04_A13.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А32: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/07_A32.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "А42: "
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/09_A42.png"
+        }
     ]
 }
